@@ -1,5 +1,5 @@
 # tutorialOF
-Material for OpenFOAM tutorial, to be used at KTH Engineering Mechanics.
+Material for OpenFOAM tutorial, to be used at KTH Engineering Mechanics, e.g. for the CFD course SG2212/SG3114.
 
 ## Table of contents
 
