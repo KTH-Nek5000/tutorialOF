@@ -3,14 +3,16 @@ Material for OpenFOAM tutorial, to be used at KTH Engineering Mechanics, e.g. fo
 
 ## Table of contents
 
-1. [Building instructions for OpenFOAM](https://github.com/AtzoriMarco/tutorialOF/blob/main/README.md#1-building-instructions-for-openfoam-and-paraview)
-2. [Your first case](https://github.com/AtzoriMarco/tutorialOF#2-your-first-case)
-3. [Your second case (with post-processing)](https://github.com/AtzoriMarco/tutorialOF#3-your-second-case-with-post-processing)
-4. [A new solver](https://github.com/AtzoriMarco/tutorialOF/blob/main/README.md#4-a-new-solver)
+1. [Building instructions for OpenFOAM](https://github.com/KTH-Nek5000/tutorialOF/blob/main/README.md#1-building-instructions-for-openfoam-and-paraview)
+2. [Your first case](https://github.com/KTH-Nek5000/tutorialOF#2-your-first-case)
+3. [Your second case (with post-processing)](https://github.com/KTH-Nek5000/tutorialOF#3-your-second-case-with-post-processing)
+4. [A new solver](https://github.com/KTH-Nek5000/tutorialOF/blob/main/README.md#4-a-new-solver)
 
 ## 1. Building instructions for OpenFOAM (and Paraview)
 
-Tested using the free version of [VMware](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) and [VirtualBox](https://www.virtualbox.org/wiki/Downloads) , with [Ubuntu 20.04](http://www.releases.ubuntu.com/20.04/). OpenFOAM (and Paraview) will take approx 3.3 Gb once compiled, take this into account. 
+Tested using  [VirtualBox](https://www.virtualbox.org/wiki/Downloads) (recommended). OpenFOAM (and Paraview) will take approx 3.3 Gb once compiled, take this into account.
+
+If you have a native Linux, of course this can be directly used without virtual machine. We tested the below instructions with [Ubuntu 20.04](http://www.releases.ubuntu.com/20.04/). Alternatively, one can also use the free non-commercial version of [VMware](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html).
 
 ### 1.1 Install prerequisites for OpenFOAM
 
